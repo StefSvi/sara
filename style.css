@@ -102,6 +102,9 @@ h3 {
   font-size: 2.1rem;
   text-align: center;
 }
+section {
+  padding-bottom: 2.5rem;
+}
 footer {
   background: #ffffff;
   color: #474544;
