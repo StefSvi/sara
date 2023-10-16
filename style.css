@@ -8,6 +8,8 @@
 body {
   font-family: "Montserrat", sans-serif;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 section {
   margin-left: 15%;
@@ -103,7 +105,7 @@ h3 {
   text-align: center;
 }
 section {
-  padding-bottom: 5rem;
+  padding-bottom: 2.5rem;
 }
 footer {
   background: #ffffff;
@@ -113,10 +115,11 @@ footer {
   text-align: center;
   align-items: center;
   flex-wrap: wrap;
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
+  margin-top: auto;
 }
 footer ul {
   display: flex;
