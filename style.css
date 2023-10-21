@@ -112,14 +112,11 @@ footer {
   color: #474544;
   display: flex;
   padding: 10px;
-  text-align: center;
-  align-items: center;
   flex-wrap: wrap;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  margin-top: auto;
 }
 footer ul {
   display: flex;
