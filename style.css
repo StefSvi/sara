@@ -115,7 +115,7 @@ footer {
   text-align: center;
   align-items: center;
   flex-wrap: wrap;
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
