@@ -38,7 +38,10 @@ a {
   text-decoration: none;
   font-size: 1.5rem;
 }
-
+a:hover {
+  color: #12864f;
+  text-decoration: underline;
+}
 .logo {
   display: flex;
   align-items: center;
